@@ -1,6 +1,6 @@
 ### Hello World :smirk:
 
-- 🔭 I’m currently working on ...
+- I’m currently working on projects to strengthen my understanding of JavaScript, Python, Docker, Express, etc... :computer:
 
 <!--
 **sonwuana1/sonwuana1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
