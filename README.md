@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋🏾, I'm Sylvia Onwuana!</h1>
-<h3 align="center">A passionate frontend developer with a lot to offer</h3>
+<h3 align="center">A passionate frontend developer with a lot to offer 💜</h3>
 
 - 👨‍💻 All of my projects are available at [https://sonwuana1.github.io/](https://sonwuana1.github.io/)
 
