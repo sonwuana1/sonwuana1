@@ -1,9 +1,9 @@
 <h1 align="center">Hello World 👋🏾, I'm Sylvia Onwuana!</h1>
 <h3 align="center">A passionate frontend developer with a lot to offer 💜</h3>
 
-- 🌱 I’m currently learning **AWS, Tailwind**
+- 📓 I’m currently learning **AWS, Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://sonwuana1.github.io/](https://sonwuana1.github.io/)
+- 👩🏾‍💻 All of my projects are available at [https://sonwuana1.github.io/](https://sonwuana1.github.io/)
 
 - 📫 How to reach me **sonwuana1@yahoo.com**
 
