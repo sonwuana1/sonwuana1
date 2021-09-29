@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ArmyUploads](https://github.com/sonwuana1/ArmyUploads)
 
-- 📓 I’m currently learning **Django, MongoDB, AWS, Tailwind**
+- 📓 I’m currently learning **Ruby, Django, MongoDB, AWS, Tailwind**
 
 - 👩🏾‍💻 All of my projects are available at [https://sonwuana1.github.io/](https://sonwuana1.github.io/)
 
